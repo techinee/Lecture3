@@ -7,7 +7,7 @@
 
 // First:
 // Let's defind a simple object (with no properties or methods)
-const blank = {}
+const blank = {};//object
 console.log("Blank type:",typeof blank)
 console.log("Blank value",blank)
 
