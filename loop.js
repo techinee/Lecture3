@@ -23,3 +23,10 @@ for(let name of names){
 }
 
 // do while loop **sniplet
+console.log('-- do while --')
+index = 0 //reset ค่าใหม่
+do {
+    const name = names[index]
+    console.log(name)
+    index++
+} while (index< names.length);
