@@ -1,4 +1,4 @@
-let arr1 = ["A",true,2]
+let arr1 = ["A",true,2]//สามารถเก็บข้อมูลคนละ typeได้
 
 console.log("\n**********Length and index**********\n")
 console.log(arr1.length)
